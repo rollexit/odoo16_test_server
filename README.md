@@ -16,6 +16,20 @@ how to install odoo 16 on ubuntu
  - [ ] \du : to list odoo user
  - [ ] alter user odoo with password 'pswd'; : to set password you enter in configuration file
  - [ ] \q: quit database cli
- - [ ] and go in the navigator and launch ; localhost:8069 and configure step by step 
+ - [ ] and go in the navigator and launch ; localhost:8069 and configure step by step
+
+# credential 
+
+VM ; 
+
+ - login : odoo
+ - password : odoo
+
+Odoo web app 
+
+ - username : odoo@test.local
+ - password : Admin
+ - master password : @dmin1
+
 
 # Thanks
