@@ -1,6 +1,6 @@
 # odoo16_test_server
  odoo16 homelab installation for test
-# Welcome to StackEdit!
+
 
 how to install odoo 16 on ubuntu 
 # installation with installation program
